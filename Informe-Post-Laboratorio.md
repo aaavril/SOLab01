@@ -60,5 +60,5 @@ Familiarizarnos con el uso básico de Git y GitHub para gestionar repositorios y
 ---
 
 ### Anexos  
-- [Enlace al repositorio remoto en GitHub](URL_DEL_REPOSITORIO)
+-https://github.com/aaavril/SOLab01.git
 ```
